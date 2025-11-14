@@ -1,0 +1,5 @@
+{
+  "name": "Social Post Scheduler",
+  "description": "An application to create, generate AI-powered content, and schedule posts for social media platforms like Bluesky and Facebook.",
+  "requestFramePermissions": []
+}
